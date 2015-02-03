@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cheekybits/genny/parse"
+	"github.com/rickb777/genny/parse"
 	"github.com/stretchr/testify/assert"
 )
 

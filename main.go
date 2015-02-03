@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/cheekybits/genny/parse"
+	"github.com/rickb777/genny/parse"
 )
 
 /*

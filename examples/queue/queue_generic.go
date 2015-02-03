@@ -1,6 +1,6 @@
-package example
+package queue
 
-import "github.com/cheekybits/genny/generic"
+import "github.com/rickb777/genny/generic"
 
 type Generic generic.Type
 
